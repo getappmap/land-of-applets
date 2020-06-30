@@ -3,6 +3,7 @@
 
 require 'fileutils'
 require 'appmap'
+require 'json'
 require 'net/ssh'
 require 'pry'
 
@@ -38,4 +39,4 @@ appmap = AppMap.record do
   demo.call
 end
 
-File.write('appmap.yml', JSON.generate(appmap))
+File.write('tmp/appmap.json', JSON.generate(appmap))

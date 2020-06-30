@@ -1,1 +1,4 @@
-{"version":"1.2","metadata":{"app":null,"language":{"name":"ruby","engine":"ruby","version":"2.6.2"},"client":{"name":"appmap","url":"https://github.com/applandinc/appmap-ruby","version":"0.28.0"},"git":{"repository":"git@github.com:applandinc/land-of-applets.git","branch":"HEAD","commit":"HEAD","status":["A  .ruby-version","A  Dockerfile","A  Gemfile","A  Gemfile.lock","A  README.md","A  appmap.yml","A  docker-compose.yml","A  main.rb"],"git_last_annotated_tag":null,"git_last_tag":null,"git_commits_since_last_annotated_tag":null,"git_commits_since_last_tag":null}},"classMap":[],"events":[]}
+name: how-to-properly-close-a-netssh-connection_62643718
+packages:
+  - path: main.rb
+  - path: /Users/kgilpin/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/net-ssh-6.1.0/lib
