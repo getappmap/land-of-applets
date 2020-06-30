@@ -1,0 +1,8 @@
+{
+  "gender": {
+    "options": [ "Male", "Female" ]
+  },
+  "title": {
+    "options": [ "Mr", "Mrs" ]
+  }
+}
