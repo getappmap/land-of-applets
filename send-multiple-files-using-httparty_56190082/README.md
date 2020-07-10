@@ -59,3 +59,11 @@ If your web server is not responding properly to this request, then the problem 
 
 See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Connection
 
+# Behavior of `HTTParty`
+
+Here is the program execution of `HTTParty::Request`:
+
+[![Behavior of HTTParty](request.png)](https://app.land/scenarios/71cb4798-b251-4918-b729-fc00b64538bd#event=13).
+
+
+
