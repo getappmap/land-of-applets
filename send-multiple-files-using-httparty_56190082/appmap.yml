@@ -1,0 +1,4 @@
+name: how-to-properly-close-a-netssh-connection_62643718
+packages:
+  - path: main.rb
+  - path: /Users/kgilpin/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/httparty-0.18.1
