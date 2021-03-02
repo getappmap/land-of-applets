@@ -1,0 +1,4 @@
+name: main
+packages:
+- path: sshdemo
+- path: paramiko
