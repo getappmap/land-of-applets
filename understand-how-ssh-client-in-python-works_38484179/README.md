@@ -6,6 +6,8 @@ See the documentation for appmap-python [here](https://github.com/applandinc/app
 
 ## Install Python packages
 
+Setup your Python3 environment and install these three packages with `pip`:
+
 ```shell
 % pip install paramiko
 % pip install select
@@ -21,6 +23,8 @@ packages:
 - path: sshdemo
 - path: paramiko
 ```
+
+The AppMap recorder will capture all calls of functions in the `sshdemo` and `paramiko` modules.
 
 ## Run the demo code and record the AppMap
 
